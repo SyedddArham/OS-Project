@@ -1,0 +1,1 @@
+Designed and developed a task manager application using Python, incorporating a user-friendly graphical interface (GUI) with Tkinter. Managed backend logic for CRUD operations, utilizing SQLite3 for data storage. Conducted rigorous testing and debugging to ensure stability. Technologies used include Python, Tkinter and SQLite3, with version control through Git.
